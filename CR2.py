@@ -13,5 +13,4 @@ def student_pass(score1, score2, score3):
     else:
         print("This student has not passed.")
 
-#to test this .py script, write your test score here, remove the hashtag, then run directly, without converting to .ipynb :
-#student_pass(50, 50, 50)
+student_pass(50, 30, 50)

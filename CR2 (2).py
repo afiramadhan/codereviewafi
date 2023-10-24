@@ -4,3 +4,5 @@ def student_pass(score1, score2, score3):
         print('This student has passed.')
     else: #in all other cases, the student fails
         print('This student has not passed.')
+
+student_pass(50, 30, 50)
